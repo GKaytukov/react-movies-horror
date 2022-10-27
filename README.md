@@ -1,4 +1,11 @@
-# Getting Started with Create React App
+# React Movies
+
+Happy Halloween! 🎃
+
+See a demo at [https://horror-movies-gk.web.app](https://horror-movies-gk.web.app)
+
+
+## To run locally
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
